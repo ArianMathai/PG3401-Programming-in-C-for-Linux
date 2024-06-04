@@ -2,7 +2,7 @@ Navigate to each folder and type:
 
 ```sh
 make
-
+```
 
 
 Exam in c programming in linux

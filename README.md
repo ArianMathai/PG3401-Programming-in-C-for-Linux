@@ -1,3 +1,10 @@
+Navigate to each folder and type:
+
+```sh
+make
+
+
+
 Exam in c programming in linux
 
 oppgave_2: Task on filehandeling
